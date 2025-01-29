@@ -91,6 +91,9 @@ Once the itinerary is generated, you will see it displayed on the screen. You al
 
 ![Screenshot of the Travel Planner App](screenshot.png)
 
+## Deployed Application
+You can try the app live here: [Personalized AI Travel Planner](https://personalized-ai-travel-planner.streamlit.app/)
+
 ## Troubleshooting
 - *API Key Issues*: If you encounter errors related to the Mistral API, ensure that your API key is correctly set as an environment variable.
 - *Package Installation Errors*: Ensure that you are using a virtual environment and that all dependencies are installed correctly.
