@@ -89,7 +89,7 @@ Once the itinerary is generated, you will see it displayed on the screen. You al
 
 ## Example Screenshot
 
-![Travel Planner App](![Image](https://github.com/user-attachments/assets/c8c2ea2d-4304-4738-bace-d86d2310a07b))
+![Screenshot of the Travel Planner App](https://github.com/user-attachments/assets/c8c2ea2d-4304-4738-bace-d86d2310a07b)
 
 ## Deployed Application
 You can try the app live here: [Personalized AI Travel Planner](https://personalized-ai-travel-planner.streamlit.app/)
