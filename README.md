@@ -1,4 +1,4 @@
-# Travel Planner with Mistral AI
+# Travel Planner with AI
 
 ## Overview
 This project is a web-based travel planner application built using Streamlit. It leverages the Mistral AI API to generate personalized travel itineraries based on user input. The app guides the user through collecting basic travel details, preferences, and generating a personalized itinerary.
