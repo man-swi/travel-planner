@@ -11,7 +11,6 @@ if not MISTRAL_API_KEY:
 MISTRAL_API_URL = "https://api.mistral.ai/v1/chat/completions"
 
 
-# Set custom CSS for the app
 st.markdown("""
     <style>
         body {
